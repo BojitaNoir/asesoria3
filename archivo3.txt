@@ -1,5 +1,8 @@
 Iniciando archivo desde main
 
+Iniciando archivo desde user1
+Modificacion archivo desde user 1 #2
+Modificacion archivo desde user 1 #3
 Modificacion del archivo por el usuario 3
 Iniciando archivo desde user2
 Modificacion archivo desde user 2 #2
